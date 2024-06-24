@@ -26,7 +26,7 @@
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/toko-online-laravel.git nama_projek
+  git clone https://github.com/renaldy23y/2141042_UAS-PEMROGRAMAN-WEB.git nama_projek
 ```
 
 Masuk ke folder dengan perintah
